@@ -1,2 +1,2 @@
 # WE-Programmer
- It's only beginer
+ It's only begining
